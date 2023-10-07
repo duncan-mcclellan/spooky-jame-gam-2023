@@ -1,0 +1,22 @@
+{
+	"configurations": [
+		{
+			"name": "SpookyJameGam2023Editor Editor Win64 Development (SpookyJameGam2023)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"configurationProvider": "epic.ue",
+			"compileCommands": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_SpookyJameGam2023.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"configurationProvider": "epic.ue",
+			"compileCommands": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}
