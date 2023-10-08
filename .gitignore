@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Lock files for Design Documents
+*.odt#
+
 # Compiled Object files
 *.slo
 *.lo
