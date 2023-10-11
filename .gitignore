@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Asset Libraries
+Content/DefectPropsVol1/*
+Content/Meadow_Environment_Set/*
+Content/ModernHouse/*
+Content/PhotoR_Backgrounds/*
+Content/STF/*
+*.png
