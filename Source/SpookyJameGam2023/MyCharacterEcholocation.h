@@ -30,4 +30,5 @@ public:
 	FTimerHandle TimerHandle;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float Delay;
+	TArray<AActor*> LocatedObjects;
 };

@@ -37,4 +37,8 @@ void AMyCharacterEcholocation::SetupPlayerInputComponent(UInputComponent* Player
 void AMyCharacterEcholocation::PrintOnScreen()
 {
 	UE_LOG(LogTemp, Warning, TEXT("We're Printing"));
+	GetOverlappingActors(LocatedObjects);
+	int32 num = LocatedObjects.Num();
+	UE_LOG(LogTemp, Warning, TEXT("Num: %i"), num);
 }
+
