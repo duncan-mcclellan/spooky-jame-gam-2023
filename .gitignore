@@ -83,3 +83,9 @@ Content/ModernHouse/*
 Content/PhotoR_Backgrounds/*
 Content/STF/*
 *.png
+
+# FMOD
+Plugins\FMODStudio\Intermediate
+Plugins\FMODStudio\Resources
+Plugins\FMODStudio\Docs
+
