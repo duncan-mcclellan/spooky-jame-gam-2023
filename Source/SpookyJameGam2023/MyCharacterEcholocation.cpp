@@ -36,9 +36,23 @@ void AMyCharacterEcholocation::SetupPlayerInputComponent(UInputComponent* Player
 
 void AMyCharacterEcholocation::PrintOnScreen()
 {
-	UE_LOG(LogTemp, Warning, TEXT("We're Printing"));
+	// We have actors to light up in LocatedObjects
 	GetOverlappingActors(LocatedObjects);
-	int32 num = LocatedObjects.Num();
-	UE_LOG(LogTemp, Warning, TEXT("Num: %i"), num);
+	int32 NumOfActors = LocatedObjects.Num();
+
+	// Debug print
+	UE_LOG(LogTemp, Warning, TEXT("Num: %i"), NumOfActors);
+
+	if (NumOfActors > 0)
+	{
+		for (int i = 0; i < NumOfActors; i++)
+		{
+			// Spawn a dupe of each actor with the lit-up mesh
+
+			// Keep them on-screen for Delay minus an offset # of seconds
+
+			// Destroy lit-up actors
+		}
+	}
 }
 
