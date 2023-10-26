@@ -25,7 +25,9 @@ public:
 
 public:
 	void PrintOnScreen();
+
 	FTimerHandle TimerHandle;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float Delay;
 };

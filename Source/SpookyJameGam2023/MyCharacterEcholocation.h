@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include <unordered_map>
+
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "MyCharacterEcholocation.generated.h"
@@ -26,9 +28,14 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	void PrintOnScreen();
+	void Echolocate();
+
+	void PrintOnScreen(const int) const;
+
 	FTimerHandle TimerHandle;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	float Delay;
-	TArray<AActor*> LocatedObjects;
+	float Delay = 3.0f;
+
+	std::unordered_map<AActor*, AActor*> ObjectToDupeMap;
 };
