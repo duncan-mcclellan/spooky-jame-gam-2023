@@ -44,12 +44,11 @@ void AMyCharacterEcholocation::Echolocate()
 
 	for (int i = 0; i < NumOfActors; i++)
 	{
-		if (!ObjectToDupeMap.Contains(ObjectToDupeMap[LocatedObjects[i]])) {
-			ObjectToDupeMap.Add(ObjectToDupeMap[LocatedObjects[i]], nullptr);
+		if (!ObjectToDupeMap.Contains(LocatedObjects[i]))
+		{
+			ObjectToDupeMap.Add(LocatedObjects[i], nullptr);
 		}
-
-		// Map actual dupe to actual object
-		if (ObjectToDupeMap[LocatedObjects[i]] != nullptr)
+		else
 		{
 			delete ObjectToDupeMap[LocatedObjects[i]];
 		}
