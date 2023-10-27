@@ -37,5 +37,8 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float Delay = 3.0f;
 
-	std::unordered_map<AActor*, AActor*> ObjectToDupeMap;
+	TMap<AActor*, AActor*> ObjectToDupeMap;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UMaterial* LitMaterial;
 };

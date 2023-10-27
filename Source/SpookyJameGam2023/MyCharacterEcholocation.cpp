@@ -44,16 +44,23 @@ void AMyCharacterEcholocation::Echolocate()
 
 	for (int i = 0; i < NumOfActors; i++)
 	{
+		if (!ObjectToDupeMap.Contains(ObjectToDupeMap[LocatedObjects[i]])) {
+			ObjectToDupeMap.Add(ObjectToDupeMap[LocatedObjects[i]], nullptr);
+		}
+
 		// Map actual dupe to actual object
 		if (ObjectToDupeMap[LocatedObjects[i]] != nullptr)
 		{
 			delete ObjectToDupeMap[LocatedObjects[i]];
 		}
 
-		// Spawn a dupe of the actor with the lit-up mesh
+		// Spawn a dupe of the actor
 		FActorSpawnParameters spawnParams = FActorSpawnParameters();
 		spawnParams.Template = LocatedObjects[i];
 		ObjectToDupeMap[LocatedObjects[i]] = GetWorld()->SpawnActor<AActor>(LocatedObjects[i]->GetActorLocation(), LocatedObjects[i]->GetActorRotation(), spawnParams);
+
+		// Change to lit mesh
+		ObjectToDupeMap[LocatedObjects[i]]->GetComponentByClass<UStaticMeshComponent>()->SetMaterial(0, LitMaterial);
 	}
 }
 
