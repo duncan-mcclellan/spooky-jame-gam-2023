@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
+#include "Engine/World.h"
 #include "MyCharacterEcholocation.h"
 
 // Sets default values
@@ -44,22 +45,24 @@ void AMyCharacterEcholocation::Echolocate()
 
 	for (int i = 0; i < NumOfActors; i++)
 	{
-		if (!ObjectToDupeMap.Contains(LocatedObjects[i]))
+		// PROBLEM: On second pass where this statement is true -> will crash
+		if (ObjectToDupeMap.Contains(LocatedObjects[i]))
 		{
-			ObjectToDupeMap.Add(LocatedObjects[i], nullptr);
+			ObjectToDupeMap[LocatedObjects[i]] = nullptr;
+			//delete ObjectToDupeMap[LocatedObjects[i]];
 		}
 		else
 		{
-			delete ObjectToDupeMap[LocatedObjects[i]];
+			ObjectToDupeMap.Add(LocatedObjects[i], nullptr);
 		}
 
 		// Spawn a dupe of the actor
 		FActorSpawnParameters spawnParams = FActorSpawnParameters();
-		spawnParams.Template = LocatedObjects[i];
+		spawnParams.Template = LocatedObjects[i];  // LocatedObjects[i] isn't an actor???
 		ObjectToDupeMap[LocatedObjects[i]] = GetWorld()->SpawnActor<AActor>(LocatedObjects[i]->GetActorLocation(), LocatedObjects[i]->GetActorRotation(), spawnParams);
 
 		// Change to lit mesh
-		ObjectToDupeMap[LocatedObjects[i]]->GetComponentByClass<UStaticMeshComponent>()->SetMaterial(0, LitMaterial);
+		//ObjectToDupeMap[LocatedObjects[i]]->GetComponentByClass<UStaticMeshComponent>()->SetMaterial(0, LitMaterial); // Can't get 
 	}
 }
 
