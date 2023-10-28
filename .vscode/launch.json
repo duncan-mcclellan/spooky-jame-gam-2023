@@ -4,7 +4,7 @@
 		{
 			"name": "Launch SpookyJameGam2023 (Debug)",
 			"request": "launch",
-			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "SpookyJameGam2023 Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch SpookyJameGam2023 (DebugGame)",
 			"request": "launch",
-			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "SpookyJameGam2023 Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch SpookyJameGam2023 (Development)",
 			"request": "launch",
-			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "SpookyJameGam2023 Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch SpookyJameGam2023 (Test)",
 			"request": "launch",
-			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "SpookyJameGam2023 Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch SpookyJameGam2023 (Shipping)",
 			"request": "launch",
-			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "SpookyJameGam2023 Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "D:\\Epic Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "SpookyJameGam2023Editor Win64 Debug Build",
 			"args": [
-				"D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\SpookyJameGam2023.uproject"
+				"D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023.uproject"
 			],
 			"cwd": "D:\\Epic Games\\UE_5.2",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "D:\\Epic Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "SpookyJameGam2023Editor Win64 DebugGame Build",
 			"args": [
-				"D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\SpookyJameGam2023.uproject"
+				"D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023.uproject"
 			],
 			"cwd": "D:\\Epic Games\\UE_5.2",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "D:\\Epic Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "SpookyJameGam2023Editor Win64 Development Build",
 			"args": [
-				"D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\SpookyJameGam2023.uproject"
+				"D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023.uproject"
 			],
 			"cwd": "D:\\Epic Games\\UE_5.2",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\SpookyJameGam2023.uproject",
+				"-project=D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023.uproject",
 				"-game",
 				"-engine"
 			],

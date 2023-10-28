@@ -1,41 +1,297 @@
 [
 	{
-		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023.Build.cs",
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Echolocation.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.261.rsp"
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
 		],
 		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023.cpp",
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Echolocation.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.261.rsp"
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
 		],
 		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023.h",
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\MyCharacterEcholocation.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.261.rsp"
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
 		],
 		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023GameModeBase.cpp",
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\MyCharacterEcholocation.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.261.rsp"
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
 		],
 		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023GameModeBase.h",
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\MyGameModeEcho.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\SpookyJameGam2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.261.rsp"
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\MyGameModeEcho.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Actors\\Collectables\\Collectable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Actors\\Collectables\\Weapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Actors\\Interface\\IsACollectable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Actors\\Intraction\\SInteractComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Actors\\Location\\SafeLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Attribute\\AttributeComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Character\\AI\\EnemyController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Character\\AI\\NPCS.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Character\\FirstCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Character\\SJGCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Character\\SJG_Player_Character.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\Controllers\\Player\\SJG_PlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Private\\GameMode\\SJG_GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Actors\\Collectables\\Collectable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Actors\\Collectables\\Weapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Actors\\Interface\\IsACollectable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Actors\\Intraction\\SInteractComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Actors\\Location\\SafeLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Attribute\\AttributeComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Character\\AI\\EnemyController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Character\\AI\\NPCS.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Character\\FirstCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Character\\SJGCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Character\\SJG_Player_Character.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\Controllers\\Player\\SJG_PlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\Public\\GameMode\\SJG_GameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023GameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\Source\\SpookyJameGam2023\\SpookyJameGam2023GameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Games\\GameJam\\SpookyJameGam2023\\spooky-jame-gam-2023\\.vscode\\compileCommands_SpookyJameGam2023\\SpookyJameGam2023.283.rsp"
 		],
 		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
 	}
